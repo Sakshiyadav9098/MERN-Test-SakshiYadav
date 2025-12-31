@@ -53,7 +53,7 @@ b) Parses JSON request bodies
 DELETE /api/users/123
 
 **Sample Response:**
-```json
+json
 {
   "message": "User deleted successfully"
 }
@@ -82,4 +82,4 @@ I built a simple Todo List application to understand full-stack integration usin
 - React frontend for adding and displaying todos
 - Express backend with POST and GET APIs
 - MongoDB for storing todo data
->>>>>>> 2b4fb65 (Completed MERN full stack assessment)
+
